@@ -12,6 +12,6 @@ from model import GPT2PPL
 # initialize the model
 model = GPT2PPL()
 
-sentence = "your text here"
+sentence = "Another reason for Lays' success is its marketing strategies. The brand has employed various marketing campaigns over the years that have helped it to increase its brand recognition and attract new customers. One of the most successful marketing campaigns was the Do Us A Flavor campaign, which was first launched in the United States in 2012. The campaign encouraged customers to submit their ideas for new chip flavors, and the winning flavor was added to the Lays product line. The campaign was so successful that it was later launched in other countries, such as Canada, the United Kingdom, and Australia."
 
 model(sentence)
